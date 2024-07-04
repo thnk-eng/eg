@@ -1,7 +1,7 @@
 package eg
 
 import (
-	"github.com/macadelic/eg/cmd"
+	"github.com/thnkr-one/eg/cmd"
 )
 
 func main() {
